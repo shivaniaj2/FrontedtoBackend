@@ -10,9 +10,9 @@ Confirmation: Registration details are shown in the web browser after form submi
 Technologies Used:
 Frontend:
 HTML
-CSS
+CSS,
 Backend:
 Java (Core Java)
-Servlets
+Servlets,
 Web Server:
 Apache Tomcat (or any other servlet container)
